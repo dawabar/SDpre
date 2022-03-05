@@ -1,4 +1,3 @@
-# SDpre
-pre-work for SkillDistillery bootcamp
+## SDpre
 
-Hello World.
+Hello World
